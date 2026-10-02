@@ -8,7 +8,7 @@
 <table>
   <thead>
     <tr>
-      <th align="center" width="180">项目预览</th>
+      <th align="center" width="180">项目图标</th>
       <th align="left">项目</th>
       <th align="left">简介与主要能力</th>
       <th align="center">入口</th>
@@ -16,19 +16,19 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-ai-flow"><img src="https://raw.githubusercontent.com/NKG-Studio/nkg-ai-flow/main/docs/assets/readme-cover.png" alt="NKG AI Flow" width="160" /></a></td>
+      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-ai-flow"><img src="https://raw.githubusercontent.com/NKG-Studio/nkg-ai-flow/main/docs/assets/nkg-icon-master.png" alt="NKG AI Flow" width="160" /></a></td>
       <td valign="middle"><strong>NKG AI Flow</strong><br /><sub>AI 工作流</sub></td>
       <td valign="middle">面向 AI Agent 的可热更新工作流运行时。<br /><br />可视化编排、版本化热更新、运行追踪，以及 HTTP / CLI / MCP / SDK 多入口调用。</td>
       <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-ai-flow">查看项目 →</a></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/NKGGameFramework"><img src="https://raw.githubusercontent.com/NKG-Studio/NKGGameFramework/main/pic/webdebug.png" alt="NKGGameFramework" width="160" /></a></td>
+      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/NKGGameFramework"><img src="https://raw.githubusercontent.com/NKG-Studio/NKGGameFramework/main/docs/assets/nkg-icon-master.png" alt="NKGGameFramework" width="160" /></a></td>
       <td valign="middle"><strong>NKGGameFramework</strong><br /><sub>游戏开发</sub></td>
       <td valign="middle">基于 .NET 10 的引擎无关 C# 游戏框架。<br /><br />模块与 ECS、技能 / Buff、行为树、节点图，以及 Web 调试与快照回放。</td>
       <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/NKGGameFramework">查看项目 →</a></td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-ai-native-2d"><img src="https://raw.githubusercontent.com/NKG-Studio/nkg-ai-native-2d/main/docs/images/frameloop-studio-cover.png" alt="FrameLoop Studio" width="160" /></a></td>
+      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-ai-native-2d"><img src="https://raw.githubusercontent.com/NKG-Studio/nkg-ai-native-2d/main/docs/assets/nkg-icon-master.png" alt="FrameLoop Studio" width="160" /></a></td>
       <td valign="middle"><strong>FrameLoop Studio</strong><br /><sub>动画素材</sub></td>
       <td valign="middle">从视频制作自然循环的 2D 动画与游戏图集。<br /><br />循环分析、本地 AI 抠图、逐帧精修、Sprite Sheet 导出与 MCP 批处理。</td>
       <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-ai-native-2d">查看项目 →</a></td>
