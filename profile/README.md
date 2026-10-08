@@ -48,7 +48,7 @@
     <tr>
       <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-video"><img src="https://raw.githubusercontent.com/NKG-Studio/nkg-video/main/assets/app-icon.png" alt="NKG Video Player · VP" width="160" /></a></td>
       <td valign="middle"><strong>NKG Video Player · VP</strong><br /><sub>视频工具</sub></td>
-      <td valign="middle">面向视频与动画素材预览的 Windows 播放器。<br /><br />硬件解码、多视频标签与分屏、逐帧前进 / 后退、透明视频、GPU 滤镜与可选 AI 美颜美型；全屏自动隐藏控件。</td>
+      <td valign="middle">面向视频与动画素材预览的 Windows 播放器。<br /><br />硬件解码、多视频标签与分屏、逐帧前进 / 后退、透明视频、GPU 滤镜与可选 AI 美颜 / 美型 / 美体。播放进度平滑更新，提供帧时间与 FPS 状态；全屏静止时隐藏控件和光标。支持通过 Windows 文件关联设为默认播放器。</td>
       <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-video">查看项目 →</a></td>
     </tr>
   </tbody>
