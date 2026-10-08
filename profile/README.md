@@ -1,7 +1,7 @@
 <h1 align="center">NKG Studio · NKG 工作室</h1>
 
 <p align="center"><strong>AI 工作流 · 游戏开发 · 桌面效率工具</strong></p>
-<p align="center">从 Agent 流程编排、游戏运行时与动画素材制作，到日常文件和大文本处理。<br />把开发中反复遇到的问题，做成可以直接使用和继续扩展的工具。</p>
+<p align="center">从 Agent 流程编排、游戏运行时与动画素材制作，到视频预览、日常文件和大文本处理。<br />把开发中反复遇到的问题，做成可以直接使用和继续扩展的工具。</p>
 
 ## 开源项目
 
@@ -44,6 +44,12 @@
       <td valign="middle"><strong>NKG Uni Text Edit · UT</strong><br /><sub>桌面工具</sub></td>
       <td valign="middle">面向超大文本的阅读、搜索、编辑与对比工具。<br /><br />按需读取、流式搜索、JSON / XML 结构浏览、二进制模板与补丁式编辑。</td>
       <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-uni-text-edit">查看项目 →</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-video"><img src="https://raw.githubusercontent.com/NKG-Studio/nkg-video/main/assets/app-icon.png" alt="NKG Video Player · VP" width="160" /></a></td>
+      <td valign="middle"><strong>NKG Video Player · VP</strong><br /><sub>视频工具</sub></td>
+      <td valign="middle">面向视频与动画素材预览的 Windows 播放器。<br /><br />硬件解码、多视频标签与分屏、逐帧前进 / 后退、透明视频、GPU 滤镜与可选 AI 美颜美型；全屏自动隐藏控件。</td>
+      <td align="center" valign="middle"><a href="https://github.com/NKG-Studio/nkg-video">查看项目 →</a></td>
     </tr>
   </tbody>
 </table>
